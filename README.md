@@ -12,7 +12,7 @@
 ![LSPosed](https://img.shields.io/badge/LSPosed-API%20101-1677FF?style=flat-square)
 ![Closed source](https://img.shields.io/badge/Source-Closed-555555?style=flat-square)
 ![Free](https://img.shields.io/badge/Module-Free-07C160?style=flat-square)
-![Version](https://img.shields.io/badge/Version-1.0.1-1677FF?style=flat-square)
+![Version](https://img.shields.io/badge/Version-1.0.2-1677FF?style=flat-square)
 
 **[下载安装](https://github.com/eifelsir/WeAI/releases) · [功能概览](#功能概览) · [开始使用](#开始使用) · [常见问题](#常见问题) · [反馈问题](https://github.com/eifelsir/WeAI/issues)**
 
@@ -24,9 +24,6 @@
 
 > [!IMPORTANT]
 > **WeAI 模块免费，项目闭源。** 本仓库用于项目介绍、安装包发布和问题反馈，不公开应用源代码。模型、搜索等第三方服务需要自行配置，相关费用由服务商收取。
-
-> [!NOTE]
-> 当前仍在持续迭代。群聊语境判断、图片、语音、分身入口等效果受WX版本、设备环境和服务商能力影响。预发布包通过本地检查，不等于所有真机环境均已验收。
 
 ## 功能概览
 
