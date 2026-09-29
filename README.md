@@ -149,7 +149,7 @@
 
 模块不设付费解锁。第三方组件及其许可见 [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md)。
 
-发布群组TG：https://t.me/WeAIChatBot
+发布群组TG：https://t.me/WeAIChatBot     适配载体8.0.76版本：https://pan.quark.cn/s/8721e81a7222
 
 如果WeAI对你有用，不妨赏我个鸡腿🍗：https://catfk.com/shop/7T6HBAJH/etya81
 
