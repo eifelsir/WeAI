@@ -12,7 +12,7 @@
 ![LSPosed](https://img.shields.io/badge/LSPosed-API%20101-1677FF?style=flat-square)
 ![Closed source](https://img.shields.io/badge/Source-Closed-555555?style=flat-square)
 ![Free](https://img.shields.io/badge/Module-Free-07C160?style=flat-square)
-![Version](https://img.shields.io/badge/Version-1.0.2-1677FF?style=flat-square)
+![Version](https://img.shields.io/badge/Version-1.0.3-1677FF?style=flat-square)
 
 **[下载安装](https://github.com/eifelsir/WeAI/releases) · [功能概览](#功能概览) · [开始使用](#开始使用) · [常见问题](#常见问题) · [反馈问题](https://github.com/eifelsir/WeAI/issues)**
 
