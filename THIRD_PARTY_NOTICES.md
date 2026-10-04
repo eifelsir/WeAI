@@ -8,6 +8,8 @@ of third-party components included in its Android package.
 | Kotlin standard library | 2.1.20 | Apache-2.0 | https://github.com/JetBrains/kotlin |
 | Gson | 2.11.0 | Apache-2.0 | https://github.com/google/gson |
 | jsoup | 1.18.3 | MIT | https://github.com/jhy/jsoup |
+| Glide GIF decoder | 4.16.0 | BSD-2-Clause / MIT / Apache-2.0; see notices | https://github.com/bumptech/glide/tree/v4.16.0/third_party/gif_decoder |
+| AndroidX annotations | 1.5.0 | Apache-2.0 | https://android.googlesource.com/platform/frameworks/support/ |
 | libxposed service | 101.0.0 | Apache-2.0 | https://github.com/libxposed/service |
 | libxposed interface | 101.0.0 | Apache-2.0 | https://github.com/libxposed/service |
 | JetBrains annotations | 13.0 | Apache-2.0 | https://github.com/JetBrains/java-annotations |
@@ -18,7 +20,7 @@ Build tools and test-only libraries are not distributed as application
 dependencies.
 
 License texts: [Apache-2.0](licenses/Apache-2.0.txt),
-[jsoup MIT](licenses/jsoup-MIT.txt).
+[jsoup MIT](licenses/jsoup-MIT.txt), [Glide GIF decoder](licenses/glide-gifdecoder.txt).
 
 These libraries are used without source modifications; Android's optimizer may
 transform or remove their bytecode. No endorsement by these projects is implied.
